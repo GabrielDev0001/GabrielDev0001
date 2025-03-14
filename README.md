@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF91F3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF91F3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Morais;I'm+a+Backend+and+AI+Developer;I'm+a+student+of+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF91F3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Morais;I'm+a+Backend+and+AI+Developer;I'm+a+Computer+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Gabriel Morais' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielDev0001&bg_color=0d1117&color=BF91F3&line=BF91F3&point=BF91F3&area=true&area_color=BF91F3&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
